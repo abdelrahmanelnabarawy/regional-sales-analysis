@@ -37,7 +37,6 @@ The objective is to understand sales performance across different regions and pr
 
 data/
 notebooks/
-sql/
 dashboard/
 images/
 
